@@ -13,7 +13,7 @@
   "author": "Nisarg Chokshi",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^2.3.0",
+    "body-parser": "^2.4.0",
     "chalk": "^4.1.0",
     "dotenv": "^8.2.0",
     "express": "^5.2.1",
